@@ -20,7 +20,7 @@
     "build-storybook": "storybook build"
   },
   "keywords": [],
-  "author": "",
+  "author": "C5m7b4",
   "license": "ISC",
   "devDependencies": {
     "@chromatic-com/storybook": "^1.5.0",
@@ -62,5 +62,8 @@
       "npm run lint",
       "npm run test"
     ]
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/C5m7b4/c5os"
   }
 }
