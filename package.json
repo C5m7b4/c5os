@@ -64,6 +64,6 @@
     ]
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/C5m7b4/c5os"
+    "registry": "https://npm.pkg.github.com/c5m7b4"
   }
 }
