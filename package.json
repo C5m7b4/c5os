@@ -21,7 +21,7 @@
     "prepare": "npm run build"
   },
   "keywords": [],
-  "author": "C5m7b4",
+  "author": "c5m7b4",
   "license": "ISC",
   "devDependencies": {
     "@chromatic-com/storybook": "^1.5.0",
